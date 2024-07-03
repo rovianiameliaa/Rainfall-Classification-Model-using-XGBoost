@@ -1,0 +1,1 @@
+This project involves developing a rainfall classification model using the XGBoost algorithm with a dataset sourced from the Automated Weather Observing System (AWOS). The model is fine-tuned using two methods: Random Search and Bayesian Optimization.
